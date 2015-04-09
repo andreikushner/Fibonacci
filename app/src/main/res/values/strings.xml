@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fibonacci scroller</string>
+    <string name="fibonacci_index_title">%s: </string>
+</resources>
